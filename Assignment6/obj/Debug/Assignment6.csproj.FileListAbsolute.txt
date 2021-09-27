@@ -1,0 +1,11 @@
+D:\c#\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+D:\c#\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+D:\c#\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+D:\c#\Assignment6\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+D:\c#\Assignment6\Assignment6\obj\Debug\Assignment6.MainForm.resources
+D:\c#\Assignment6\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+D:\c#\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+D:\c#\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+D:\c#\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+D:\c#\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+D:\c#\Assignment6\Assignment6\obj\Debug\Assignment6.AboutBox.resources
